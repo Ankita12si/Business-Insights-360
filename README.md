@@ -6,7 +6,7 @@
 - **Atliq Hardware** is a company which manufactures computers hardwares and its peripherals and supplies them to many clients across India and other countries.
 -  **Problem Statement**  Their business is exapanding rapidly. This generates a lot of data and it is still being handled in excel. These files are difficult to manage and ineffective for generating insights. Senior executives have decided to use excel on steroid i.e. Power Bi to carry on data analysis for assessing and managing overall performence.
 
- ## Key Objectives
+ ## Key Objectives:
  - To closely monitor and assess their sales operations and overall performance.
 
  - Analysing various parameters and trends and keeping a close eye on essential key performance indicators (KPIs).
