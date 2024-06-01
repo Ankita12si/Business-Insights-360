@@ -17,9 +17,9 @@
 
 - **Revenue** =  Total amount of money generated from its primary operations, sum of Gross price multiplied by quantity sold.
 - **Pre Invoice Deductions** = Yearly discounts, agreements made at the begining of each financial year. These deductions can include discounts, rebates, or allowances etc.
-- **Net Invoice Sales** : Sales after subtracting pre invoice sales, reflecting the actual income received.
-- **Post Invoice Deductions** : Further discounts and fees like promotional discounts, placement fees, performance rebate etc.
-- **Net Sales(NS)** : Sales after subtracting post invoice deductions from Net invoice sales. This is basically the **Revenue** for Atliq Hardware.
+- **Net Invoice Sales** = Sales after subtracting pre invoice sales, reflecting the actual income received.
+- **Post Invoice Deductions** = Further discounts and fees like promotional discounts, placement fees, performance rebate etc.
+- **Net Sales(NS)** : Sales after subtracting post invoice deductions from Net invoice sales.
 - **Cost of Goods Sold (COGS)** : Cost incurred by Atliq in producing their products which includes manufacturing cost, transportation cost and other cost.
 - **Gross Margin/ Gross Profit(GM)** : Profit that Atliq is making, that is, Net Sales-COGS.
 - **Other expenses** : like ads and promotions. Also other operational expenses like accounting fees, rent, utilities etc.
@@ -29,18 +29,21 @@
 - **Absolute Error** : Net error might balance it out because it is defined for certain period of time. So to get the true picture of error, absolute values are taken.
 - **Forecast Accuracy** : 100- Absolute error%.
 
-## Understanding the data :
+## Data Available :
 - **Customer dimension table** :
-    - **74 customers** with total of **209 stores** spread across **27 markets/countries**.
+    - **74 customers** , **209 stores** spread across **27 markets/countries**
     - **2 platforms** - Brick and Mortar, and E-Commmerce
-    - **3 Channels** - Retailer, Direct, and Distributors.
+    - **3 Channels** - Retailer, Direct, and Distributors
 
 - **Market dimension table** :
-    - **27 markets** spread across **7 sub-zones** in **4 broad regions**, that are : APAC(Asia Pacific), EU(European Union), NA(North America), LATAM(Latin America)
+    - **27 markets**
+    - **7 sub-zones**
+    - **4 broad regions**: APAC(Asia Pacific), EU(European Union), NA(North America), LATAM(Latin America)
 
 - **Product dimension table** :
     - **3 divisions** : Networking and Storage (N & S), Peripherals and Accessories (P & A), PC.
-    - **6 segments** & **14 Categories** of products.
+    - **6 segments**
+    - **14 Categories** of products.
 
 - **Fact tables**
     - **Fact sales monthly** : sales values for products.
@@ -65,5 +68,8 @@ Data modeling is the process of structuring and organizing data to create relati
 
 ## Dashboard:
 
-- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGE0NjEzYTktYWI0Zi00MmI1LWJhOGEtNWM0NTkwMzBiYTMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection) **to interact with the dashboard**
+- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiN2EyYTQyMzItOTczYi00NGJjLTgyZTEtY2JkNGRlYjAwOGIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection03345c52ebd459764723
+
+
+) **to interact with the dashboard**
 
