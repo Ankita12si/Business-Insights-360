@@ -3,19 +3,20 @@
 ## Introduction :
 
 
-- **Atliq Hardware** is a company dealing with manufacturing of computers and its peripherals having operations in various countries.
--  **Problem Statement**  Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America. Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
-  ## Purpose of BI dashboard :
+- **Atliq Hardware** is a company which manufactures computers hardwares and its peripherals and supplies them to many clients across India and other countries.
+-  **Problem Statement**  Their business is exapanding rapidly. This generates a lot of data and it is still being handled in excel. These files are difficult to manage and ineffective for generating insights. Senior executives have decided to use excel on sterioi i.e. Power Bi to carry on data analysis over accessing and managing overall performence
+
+ ## Key Objectives
  - To closely monitor and assess their sales operations and overall performance.
 
  - Analysing various parameters and trends and keeping a close eye on essential key performance indicators (KPIs).
 
  - Building various views for various departments like the **Finance View**, **Sales View**, **Marketing View**, **Supply Chain View** to have a more detailed analysis of the incoming data.
 
-## Key Business Metrics that are focused upon :
+## Key Business Metrics :
 
-- **Revenue** : Total amount of money generated from its primary operations, typically from sales of goods or services, before deducting any expenses or costs.
-- **Pre Invoice Amount** : Total amount a company charges for its products or services before issuing an invoice. These deductions can include discounts, rebates, or allowances, affecting the final invoice amount.
+- **Revenue** =  Total amount of money generated from its primary operations, sum of Gross price multiplied by quantity sold.
+- **Pre Invoice Deductions** = Yearly discounts, agreements made at the begining of each financial year. These deductions can include discounts, rebates, or allowances etc.
 - **Net Invoice Sales** : Sales after subtracting pre invoice sales, reflecting the actual income received.
 - **Post Invoice Deductions** : Further discounts and fees like promotional discounts, placement fees, performance rebate etc.
 - **Net Sales(NS)** : Sales after subtracting post invoice deductions from Net invoice sales. This is basically the **Revenue** for Atliq Hardware.
